@@ -1,0 +1,4 @@
+repository "Flappy Bird@CleverGo_Apps@cloud"
+  path "/"
+    br "/main"
+    co "/main"
